@@ -1,0 +1,566 @@
+
+
+
+@media (max-height: 1080px ) and (max-width: 1080px ) {
+
+
+
+#bloc-page {
+
+	width: auto;
+}
+
+
+#bloc-pagee {
+
+	width: auto;
+}
+
+#bloc-pageee {
+
+	width: auto;
+}
+
+
+#entete {
+
+	display: none;
+}
+
+
+
+#titreaside {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+}
+
+
+#bruyne {
+
+	display: none;
+}
+
+
+#equipeb {
+
+	display: none;
+}
+
+
+
+#news {
+
+	float: right;
+}
+
+table {
+
+	width: auto;
+	height: auto;
+	float: right;
+}
+
+
+img {
+
+	width:auto;
+}
+
+
+aside p:last-child {
+
+	text-align: center;
+}
+
+
+
+
+#footer {
+
+
+	width: auto;
+	display: flex;
+	flex-direction: column;
+
+}
+
+}
+
+
+
+
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+}
+
+#bloc_pagee
+{
+    width: 900px;
+    margin: auto;
+}
+
+#bloc_pagee
+{
+    width: 900px;
+    margin: auto;
+}
+
+
+#entete {
+
+text-align: center;
+display: center;
+border: 2px solid #444;
+padding: 10px 50px 20px;
+color:black;
+background-color:white;
+background: gold;
+
+margin:0;
+
+}
+
+
+
+
+#menu a { 
+	display:block;
+	
+	 
+	color: #fff; 
+	text-decoration:none; 
+}
+#menu > li,
+#menu > li li {
+	position: relative;
+	display:inline-block;
+	width: 110px;
+	padding: 6px 15px;
+	background-color: #777;
+	background-image: linear-gradient(#aaa, #888 50%, #777 50%,#999);
+}
+#menu > li li { background: transparent none; }
+#menu > li li a { color: #444; }
+#menu > li li:hover { background:#eee; }
+#menu > li:first-child {
+	border-right: 1px solid #777;
+	border-radius: 8px 0 0 8px;
+}
+#menu > li + li {
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #777;
+}
+#menu > li:last-child {
+	border-right: 0;
+	border-left: 1px solid #aaa;
+	border-radius: 0 8px 8px 0 ;
+}
+#menu > li:hover {
+	background-color: #999;
+	background-image: linear-gradient(#ccc, #aaa 50%, #999 50%,#bbb);
+}
+
+#menu ul {
+	position: absolute;
+	top: 2em; left: 0;
+	max-height:0em;	
+	margin: 0; padding: 0;
+	background-color: #ddd;
+	background-image: linear-gradient(#fff,#ddd);
+	overflow: hidden;
+	transition: 1s max-height 0.3s;
+	border-radius: 0 0 8px 8px;
+}
+
+#menu > li:hover ul {
+
+	max-height: 13em;
+}
+
+#bruyne {
+
+
+	font-family: Berlin Sans FB;
+	font-size: 17;
+	color: red;
+}
+
+
+.derniere {
+
+	font-family: Berlin Sans FB;
+	font-size: 27;
+
+}
+.annee {
+
+		font-family: Berlin Sans FB;
+		color:red;
+
+		
+	}
+
+#groupe {
+
+		font-family: Berlin Sans FB;
+		
+		
+	}	
+
+.logos {
+
+float:left;
+  
+  }
+
+#demarche {
+
+  	float: right;
+  	background-color: firebrick;
+    font-weight: bold;
+    padding: 10px 40px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 firebrick;
+
+    
+}
+.entete2 {
+	color: white;
+	background-color: black; 
+}
+
+textarea:focus
+{
+
+	background-color: #77FF88;
+}
+
+a
+
+{
+	color:firebrick; 
+}
+
+section {
+
+margin-left :200px;
+}
+
+
+
+
+.figure {
+  
+  float: right;
+  width: 20%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+#actuu {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+
+
+}
+
+.titre {
+	
+	font-family: arial;
+	text-align: center; 
+    background: linear-gradient(to right, black, #000);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+
+.retrouver,.elementsf {
+
+font-family: arial;
+
+}  
+
+
+a
+{
+	color :white;
+}
+
+
+
+
+
+
+input {
+	
+	
+	
+	background-color: red;
+    font-weight: bold;
+    padding: 10px 40px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 gray;
+    color:white;
+
+
+}
+
+
+
+.bb {
+
+	color:black;
+	font-size: 20;
+}
+
+.actus{
+
+	text-align: center;
+}
+
+
+
+
+#equipebelge {
+
+
+	text-align: center;
+}
+
+
+#news {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	font-family: Berlin Sans FB;
+	font-size: 17;
+	color: red; 
+}
+
+
+#newss {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	font-family: Berlin Sans FB;
+	font-size: 17;
+	color: red; 
+}
+
+
+#equipebelge {
+
+	    text-align:center
+    	margin:auto
+    	display:flex;
+}
+
+#aa {
+
+	font-family: cambria; 
+	font-size:18;
+
+
+}
+
+
+.titret {
+
+	font-family:Berlin Sans FB;
+	font-size: 13; 
+}
+
+table{
+  border-collapse: collapse
+  width:auto;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+tr:nth-child(even){
+
+	background-color:  firebrick ;
+
+
+}
+
+tr
+{
+
+background-color: black  ;
+color: #fff;
+text-align: left; 
+
+}
+
+
+table {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 0 3em 0;
+  padding: 0;
+}
+
+
+.rencontrep{
+
+	font-family: tahoma ; 
+}
+
+.rencontret{
+
+	font-family: Berlin Sans FB ;
+	color:red;
+	background-color: gold;
+
+}
+
+.journee {
+
+	display: column;
+	justify-content: space-between;
+	
+	
+
+}
+
+
+aside
+{
+    
+	float: right;
+    flex: 1.2;
+    position: relative;
+    background-color: firebrick;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+
+
+.titref {
+
+	color:gold;
+}
+
+
+a {
+
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#footer {
+	
+	
+	display: flex;
+	
+	flex-wrap: wrap;
+	justify-content: space-around;
+	color:white;
+	background: firebrick ;
+	border: 2px solid #444;
+	clear: both;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
